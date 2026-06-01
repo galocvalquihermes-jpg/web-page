@@ -6,7 +6,7 @@ css: styles.css
 
 # **IV. DISCUSIÓN**
 
-::::::: {style="font-family:'Times New Roman', serif; text-align:justify; line-height:1.75;"}
+::: {style="font-family:'Times New Roman', serif; text-align:justify; line-height:1.75;"}
 
 <div style="font-size:18px; font-weight:bold;">
 **4.1 Confirmación de la dormancia física en Ricinus communis**
@@ -50,4 +50,4 @@ La escarificación térmica presentó los resultados más variables e inconsiste
 Considerando conjuntamente el porcentaje final de germinación (Figura 4) y el índice de velocidad de germinación (Figura 7), la escarificación mecánica con lija se identifica como el método más eficiente para romper la dormancia física en semillas de *Ricinus communis* bajo las condiciones de este experimento. Sin embargo, los porcentajes obtenidos (máximo 64 % en la mejor repetición) son aún moderados, lo que sugiere que podrían explorarse tratamientos complementarios o ajustes en el tiempo e intensidad de lijado. Al respecto, la escarificación con papel de lija puede mejorar las tasas de germinación del 11 % al 92 % en leguminosas forrajeras (Smart Garden Guru, 2026), lo que indica un amplio margen de optimización en función de la especie y las condiciones de aplicación.
 </div>
 
-::::::: 
+:::

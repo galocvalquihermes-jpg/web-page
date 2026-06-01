@@ -6,7 +6,7 @@ css: styles.css
 
 # **V. CONCLUSIÓN**
 
-::::::: {style="font-family:'Times New Roman', serif; font-size:16px; text-align:justify; line-height:1.75;"}
+::: {style="font-family:'Times New Roman', serif; font-size:16px; text-align:justify; line-height:1.75;"}
 
 Los resultados del presente experimento permiten concluir que las semillas de *Ricinus communis* presentan dormancia física que impide su germinación bajo condiciones normales, confirmada por el porcentaje casi nulo de germinación del tratamiento control (2 %). Esta condición hace indispensable la aplicación de tratamientos pre-germinativos para favorecer la propagación de la especie.
 
@@ -16,4 +16,4 @@ La escarificación térmica fue el tratamiento menos efectivo y más variable (1
 
 En conclusión, para la propagación de *Ricinus communis* bajo condiciones similares a las de este experimento, se recomienda la escarificación mecánica con lija como tratamiento estándar. No obstante, dado que los porcentajes de germinación obtenidos fueron moderados (máximo 64 % en la mejor repetición), se sugiere explorar en futuros estudios la optimización del tiempo e intensidad de lijado, así como la combinación de métodos mecánicos con tratamientos complementarios, con el fin de incrementar y homogeneizar la germinación en esta especie de importancia agroindustrial.
 
-:::::::
+:::

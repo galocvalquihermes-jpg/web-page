@@ -6,7 +6,7 @@ css: styles.css
 
 # **II. MATERIALES Y MÉTODOS**
 
-:::::::: {style="font-family:'Times New Roman', serif; font-size:14px; text-align:justify; line-height:1.75;"}
+::: {style="font-family:'Times New Roman', serif; font-size:14px; text-align:justify; line-height:1.75;"}
 
 **2.1 Materiales**
 
@@ -73,12 +73,11 @@ Para este tratamiento no se realiza escarificación, solo se coloca las 25 semil
 Las semillas escarificadas fueron distribuidas cuidadosamente sobre el sustrato húmedo, lo que permitió mantener una separación adecuada entre ellas, evitando competencia por agua y espacio, y asegurando condiciones homogéneas para su desarrollo.  
 Una vez instaladas las unidades experimentales fueron cerradas para conservar la humedad interna. El ensayo se mantuvo a temperatura ambiente de la ciudad de Chachapoyas (10–25 °C). Durante este tiempo se realizaron observaciones diarias, registrando la aparición de la radícula como indicador de germinación, ubicando los datos en un libro de campo.
 
-:::: {style="text-align:center; margin:15px 0;"}
+::: {style="text-align:center; margin:15px 0;"}
 <figure>
   <img src="img/figura4.png" style="max-width:80%; height:auto;"/>
   <figcaption>Figura 4. Resumen gráfico</figcaption>
 </figure>
 :::
 
-::::
-:::::::: 
+:::
