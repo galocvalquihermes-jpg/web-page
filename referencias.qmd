@@ -1,0 +1,41 @@
+---
+title: ""
+format: html
+css: styles.css
+---
+
+<div style="text-align:center; font-family:'Times New Roman', serif; max-width:900px; margin:auto;">
+
+# **VI. REFERENCIAS BIBLIOGRÁFICAS**
+
+Araneda, X., Salvatierra, A., & Solís, J. L. (2017). Efecto de la escarificación y estratificación sobre la germinación in vitro de *Aristotelia chilensis* (Molina) Stuntz. *Gayana Botánica, 74*(2), 282–291. <a href="https://doi.org/10.4067/S0717-66432017000200282" style="color:blue;">https://doi.org/10.4067/S0717-66432017000200282</a>
+
+Baskin, C. C., & Baskin, J. M. (2014). *Seeds: Ecology, biogeography, and evolution of dormancy and germination* (2nd ed.). Academic Press.
+
+Bayala, R., Diedhiou, I., Casimir Siene, L. A., Georges Yao, K. A., & Noella Sagna, C. V. (2024). Test de germination des graines de ricin (*Ricinus communis* L.) sous différentes contraintes abiotiques. *European Scientific Journal, 20*(3), 197. <a href="https://doi.org/10.19044/esj.2024.v20n3p197" style="color:blue;">https://doi.org/10.19044/esj.2024.v20n3p197</a>
+
+Cronquist, A. (1981). *An integrated system of classification of flowering plants*. Columbia University Press. [Citado en Solís-Bonilla et al., 2016]
+
+Fuentes, D., Urdaneta, A., & Acosta, M. (2016). Efectividad de tratamientos pre-germinativos en la ruptura de la dormancia en semillas forrajeras y de malezas. *Revista Mexicana de Ciencias Pecuarias, 7*(3), 427–442. <a href="https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-90282016000300427" style="color:blue;">https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-90282016000300427</a>
+
+Fuentes, N., Pérez, R., & Ríos, L. (2016). Efectividad de tratamientos pre-germinativos en la ruptura de la dormancia en las semillas forrajeras y de malezas. *Ecosistemas y Recursos Agropecuarios, 3*(9), 427–434. <a href="https://doi.org/10.19136/era.a3n9.482" style="color:blue;">https://doi.org/10.19136/era.a3n9.482</a>
+
+Lara, M., Ovando, M., & Castillo, A. (2018). Single-seed selection of fast-germinating genotypes of castor (*Ricinus communis*). *Industrial Crops and Products, 195*, 116405. <a href="https://doi.org/10.1016/j.indcrop.2023.116405" style="color:blue;">https://doi.org/10.1016/j.indcrop.2023.116405</a>
+
+Martínez-Pérez, G., Orozco-Segovia, A., & Martorell, C. (2006). Efectividad de algunos tratamientos pre-germinativos para ocho especies leñosas de la mixteca alta oaxaqueña con características relevantes para la restauración. *Boletín de la Sociedad Botánica de México, 79*, 9–20.
+
+Morais, G., Acosta, J., & Rivera, C. (2020). Efecto de la escarificación en la germinación de semillas de soya forrajera perenne (*Neonotonia wightii*). *Revista de Investigaciones Veterinarias del Perú, 31*(3), e18832. <a href="http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1609-91172020000300065" style="color:blue;">http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1609-91172020000300065</a>
+
+Motis, T. (2009). Factores que influyen en la germinación de semillas. *ECHO Community.* <a href="https://www.echocommunity.org/es/resources/ce935a6b-32ed-4d0b-baf5-5411b3a7d600" style="color:blue;">https://www.echocommunity.org/es/resources/ce935a6b-32ed-4d0b-baf5-5411b3a7d600</a>
+
+Neri, J. C., Collazos, R., Oliva, M., Huamán, E., & Vasquez, J. (2019). Aplicación de la escarificación física y mecánica en la emergencia y crecimiento de semillas de tara (*Caesalpinia spinosa*). *Indes, 7*(2), 45–53. <a href="https://revistas.untrm.edu.pe/index.php/INDESDOS/article/view/392" style="color:blue;">https://revistas.untrm.edu.pe/index.php/INDESDOS/article/view/392</a>
+
+Sanabria, D., Nakasone, H., & Jiménez, A. (2017). Germinación, diámetro de semilla y tratamientos pregerminativos en especies con diferentes finalidades de uso. *Agronomía Mesoamericana, 28*(3), 703–714. <a href="https://www.mag.go.cr/rev_meso/v28n03_703.pdf" style="color:blue;">https://www.mag.go.cr/rev_meso/v28n03_703.pdf</a>
+
+Sánchez, S., Muñoz, A., & Cuesta, Y. (2016). Evaluación de diferentes tratamientos pregerminativos y osmóticos en la germinación de semillas *Prosopis laevigata*. *DigitalCommons@University of Nebraska, 12*. <a href="https://digitalcommons.unl.edu/hidalgo/12/" style="color:blue;">https://digitalcommons.unl.edu/hidalgo/12/</a>
+
+Smart Garden Guru. (2026). Cómo escarificar semillas: Una guía completa. <a href="https://smartgardenguru.com/es/artículos/cómo-escarificar-semillas-una-guía-completa" style="color:blue;">https://smartgardenguru.com/es/artículos/cómo-escarificar-semillas-una-guía-completa</a>
+
+Solís-Bonilla, J. L., Anaya-López, J. L., Zamarripa-Colmenero, A., Olivares-Sáenz, E., Núñez-Colín, C. A., & Díaz-Velásquez, J. L. (2016). Relación entre la composición química de la semilla y la calidad de aceite de doce accesiones de *Ricinus communis* L. *Revista Fitotecnia Mexicana, 39*(6), 1343–1351. <a href="https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-09342017000601343" style="color:blue;">https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-09342017000601343</a>
+
+</div>

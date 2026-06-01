@@ -1,0 +1,53 @@
+---
+title: ""
+format: html
+css: styles.css
+---
+
+# **IV. DISCUSIÓN**
+
+::::::: {style="font-family:'Times New Roman', serif; text-align:justify; line-height:1.75;"}
+
+<div style="font-size:18px; font-weight:bold;">
+**4.1 Confirmación de la dormancia física en Ricinus communis**
+</div>
+
+<div style="font-size:16px;">
+El bajo porcentaje de germinación del control (2 %) confirma la presencia de dormancia en las semillas de higuerilla evaluadas. Este resultado es consistente con lo reportado por Lara et al. (2018), quienes señalan que la dormancia es reportada en cultivares de higuerilla con intensidades variables, pudiendo estar influenciada por el orden del racimo, las condiciones ambientales durante el desarrollo de la semilla y el tiempo post-cosecha. Asimismo, Baskin y Baskin (2014), citados en Sanabria et al. (2017), clasifican este tipo de dormancia como física, presente cuando existen capas impermeables al agua en la cubierta seminal, lo cual limita la imbibición y retrasa o impide la germinación bajo condiciones normales.
+</div>
+
+<div style="font-size:18px; font-weight:bold;">
+**4.2 Superioridad de la escarificación mecánica con lija**
+</div>
+
+<div style="font-size:16px;">
+La escarificación mecánica con lija resultó ser el tratamiento más efectivo, alcanzando 52 % de germinación y el mayor IVG (1,17). Estos resultados concuerdan con lo reportado por Neri et al. (2019), quienes trabajando con *Caesalpinia spinosa* en Chachapoyas encontraron que la escarificación mecánica con lija obtuvo los mayores porcentajes de germinación y emergencia de plántulas entre los tratamientos evaluados. De igual manera, Morais et al. (2020), evaluando escarificación en soya forrajera (*Neonotonia wightii*), reportaron que el porcentaje de semillas germinadas fue mayor en el tratamiento con escarificación mecánica con papel de lija, alcanzando hasta 96 % de germinación al noveno día. La efectividad de este método se sustenta en que los tratamientos de escarificación de índole mecánico dañan de forma directa la testa de la semilla, rompiendo así la latencia (Sánchez et al., 2016).
+
+Desde un punto de vista fisiológico, Baskin y Baskin (2014), citados en Araneda et al. (2017), explican que la mayor germinación de semillas escarificadas mecánicamente puede atribuirse a una mayor facilidad de expansión del embrión y al aumento de la permeabilidad al agua y gases producido por la rotura de la cubierta seminal impermeable.
+</div>
+
+<div style="font-size:18px; font-weight:bold;">
+**4.3 Efecto del bisturí como escarificación manual puntual**
+</div>
+
+<div style="font-size:16px;">
+La escarificación manual con bisturí logró 37 % de germinación y un IVG de 0,83, siendo el segundo tratamiento más efectivo. Aunque inferior a la lija, este resultado confirma la utilidad de la incisión puntual de la testa como método para romper la dormancia física. Al respecto, Baskin y Baskin (2014) y Boeri et al. (2019), citados en Araneda et al. (2021), señalan que la dormancia física puede romperse utilizando bisturí, agujas o papel de lija. La diferencia entre lija y bisturí puede atribuirse a la extensión del área afectada: mientras la lija actúa sobre una mayor superficie de la testa mediante abrasión uniforme, el bisturí genera una incisión localizada que, si bien rompe la impermeabilidad en un punto, puede ser insuficiente en semillas con testas especialmente gruesas o cuando la incisión no alcanza una profundidad adecuada.
+</div>
+
+<div style="font-size:18px; font-weight:bold;">
+**4.4 Baja eficiencia de la escarificación térmica**
+</div>
+
+<div style="font-size:16px;">
+La escarificación térmica presentó los resultados más variables e inconsistentes entre tratamientos (4–28 %, IVG 0,25), sugiriendo que este método no fue adecuado para las semillas de *Ricinus communis* evaluadas en el presente experimento. Bayala et al. (2024), en un estudio específico con esta misma especie, concluyeron que la escarificación térmica no favoreció una buena germinación y que la multiplicación por semilla podría verse limitada por pretratamientos de calor. Esto sugiere que las temperaturas aplicadas durante el tratamiento térmico pueden resultar dañinas para el embrión si no se controlan con precisión. En este sentido, Fuentes et al. (2016) señalan que la aplicación de temperaturas elevadas provoca un aumento en la respiración y, como consecuencia, el agotamiento de las reservas energéticas del embrión, comprometiendo su capacidad germinativa.
+</div>
+
+<div style="font-size:18px; font-weight:bold;">
+**4.5 Identificación del método más eficiente para romper la dormancia**
+</div>
+
+<div style="font-size:16px;">
+Considerando conjuntamente el porcentaje final de germinación (Figura 4) y el índice de velocidad de germinación (Figura 7), la escarificación mecánica con lija se identifica como el método más eficiente para romper la dormancia física en semillas de *Ricinus communis* bajo las condiciones de este experimento. Sin embargo, los porcentajes obtenidos (máximo 64 % en la mejor repetición) son aún moderados, lo que sugiere que podrían explorarse tratamientos complementarios o ajustes en el tiempo e intensidad de lijado. Al respecto, la escarificación con papel de lija puede mejorar las tasas de germinación del 11 % al 92 % en leguminosas forrajeras (Smart Garden Guru, 2026), lo que indica un amplio margen de optimización en función de la especie y las condiciones de aplicación.
+</div>
+
+::::::: 

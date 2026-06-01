@@ -1,0 +1,19 @@
+---
+title: ""
+format: html
+css: styles.css
+---
+
+# **V. CONCLUSIÓN**
+
+::::::: {style="font-family:'Times New Roman', serif; font-size:16px; text-align:justify; line-height:1.75;"}
+
+Los resultados del presente experimento permiten concluir que las semillas de *Ricinus communis* presentan dormancia física que impide su germinación bajo condiciones normales, confirmada por el porcentaje casi nulo de germinación del tratamiento control (2 %). Esta condición hace indispensable la aplicación de tratamientos pre-germinativos para favorecer la propagación de la especie.
+
+Entre los métodos evaluados, la escarificación mecánica mediante lijado fue el más efectivo, alcanzando el mayor porcentaje de germinación (52,0 ± 8,6 %) y el mayor Índice de Velocidad de Germinación (1,17 ± 0,20 semillas·día⁻¹), con una respuesta consistente y progresiva desde el día 9 de evaluación. La escarificación mecánica con bisturí resultó el segundo método más eficiente (37,0 ± 8,9 %), confirmando que cualquier intervención que comprometa la integridad del tegumento favorece la imbibición y activa los procesos germinativos. La superioridad de la abrasión con lija sobre el corte con bisturí puede atribuirse a la mayor área de tegumento afectada, lo que facilita el ingreso de agua en un mayor número de puntos de la cubierta seminal.
+
+La escarificación térmica fue el tratamiento menos efectivo y más variable (11,0 ± 11,5 %), con rangos de germinación entre 4 % y 28 % entre repeticiones, lo que indica que la temperatura del agua utilizada pudo haber causado daño embrionario en algunas semillas sin lograr una ruptura uniforme de la impermeabilidad tegumentaria. Este resultado sugiere que el método térmico, tal como fue aplicado, no es recomendable para esta especie sin un control preciso de la temperatura y el tiempo de exposición.
+
+En conclusión, para la propagación de *Ricinus communis* bajo condiciones similares a las de este experimento, se recomienda la escarificación mecánica con lija como tratamiento estándar. No obstante, dado que los porcentajes de germinación obtenidos fueron moderados (máximo 64 % en la mejor repetición), se sugiere explorar en futuros estudios la optimización del tiempo e intensidad de lijado, así como la combinación de métodos mecánicos con tratamientos complementarios, con el fin de incrementar y homogeneizar la germinación en esta especie de importancia agroindustrial.
+
+:::::::
